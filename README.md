@@ -1,29 +1,29 @@
 # Portfolio Archive — OpusIt
 
-Zbiór case studies z projektów komercyjnych. **Kod źródłowy nie jest dostępny** — repozytorium zawiera wyłącznie dokumentację, decyzje projektowe i wyniki.
+A collection of case studies from commercial projects. **Source code is not available** — the repository contains only documentation, design decisions, and results.
 
 ---
 
-## Projekty
+## Projects
 
-| Projekt | Opis | Technologia |
-|---------|------|-------------|
-| **MigrationSelectsRuner** | Automated Firebird SQL query execution z generowaniem raportów HTML i podglądem | SQL, HTML |
-| **tytuly-wyk** | Python automation do importu XML danych o stanowiskach do SQL Server | Python, SQL Server |
-| **isagent-update-test-repo** | Panel PHP do zarządzania aktualizacjami przez FTP | PHP |
-| **update-vat-rate(UpdateVatRate)** | Tool do aktualizacji stawek VAT/podatków w bazie Firebird | C#, .NET 4.8 |
-| **tax-state-toggler(TaxStateToggler)** | Zarządzanie parametrami bazy i przełączanie wartości stanu | C# |
-| **users-mail-reporter(FirebirdMailReporter)** | Lekki CLI tool — queruje Firebird DB i wysyła wyniki mailem | CLI, Firebird |
-
----
-
-
-## Uwaga
-
-Kod źródłowy tych projektów nie jest publicznie dostępny ze względu na własność intelektualną firmy. Case studies zawierają wystarczające informacje, aby zrozumieć podejście, decyzje techniczne i wyniki.
+| Project | Description | Technology |
+|-------- -|------|-------------|
+| **MigrationSelectsRuner** | Automated Firebird SQL query execution with HTML report generation and preview | SQL, HTML |
+| **tytuly-wyk** | Python automation for importing XML job data into SQL Server | Python, SQL Server |
+| **isagent-update-test-repo** | PHP dashboard for managing updates via FTP | PHP |
+| **update-vat-rate(UpdateVatRate)** | Tool for updating VAT/tax rates in a Firebird database | C#, .NET 4.8 |
+| **tax-state-toggler(TaxStateToggler)** | Database parameter management and state value toggling | C# |
+| **users-mail-reporter(FirebirdMailReporter)** | Lightweight CLI tool—queries Firebird DB and sends results via email | CLI, Firebird |
 
 ---
 
-## Gdzie znaleźć kod?
 
-Pełna implementacja dostępna w prywatnym repozytorium (dostęp ograniczony).
+## Note
+
+The source code for these projects is not publicly available due to the company's intellectual property rights. The case studies contain sufficient information to understand the approach, technical decisions, and results.
+
+---
+
+## Where can I find the code?
+
+The full implementation is available in a private repository (restricted access).
