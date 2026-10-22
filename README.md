@@ -8,12 +8,12 @@ A collection of case studies from commercial projects. **Source code is not avai
 
 | Project | Description | Technology |
 |---------|------|-------------|
-| **MigrationSelectsRuner** | Automated Firebird SQL query execution with HTML report generation and preview | SQL, HTML |
-| **tytuly-wyk** | Python automation for importing XML job data into SQL Server | Python, SQL Server |
-| **isagent-update-test-repo** | PHP dashboard for managing updates via FTP | PHP |
+| **migration-selects-runner(MigrationSelectsRunner)** | Automated Firebird SQL query execution with HTML report generation and preview | C#, SQL, HTML |
+| **tytuly-wyk(SQL Server XML Import)** | Python automation for importing XML job data into SQL Server | Python, SQL Server |
+| **isagent-update-test-repo(ISAgent Update Test)** | PHP dashboard for managing updates via FTP | PHP |
 | **update-vat-rate(UpdateVatRate)** | Tool for updating VAT/tax rates in a Firebird database | C#, .NET 4.8 |
 | **tax-state-toggler(TaxStaateToggler)** | Database parameter management and state value toggling | C# |
-| **users-mail-reporter(FirebirdMailReporter)** | Lightweight CLI tool—queries Firebird DB and sends results via email | CLI, Firebird |
+| **users-mail-reporter(FirebirdMailReporter)** | Lightweight CLI tool—queries Firebird DB and sends results via email | C#, CLI, Firebird |
 
 ---
 
